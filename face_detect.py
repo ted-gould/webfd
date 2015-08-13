@@ -1,5 +1,6 @@
 #!/usr/bin/python2
 import sys, cv2
+sys.path.append('/usr/lib/python2.7/dist-packages')
 
 # Get user supplied values
 cascPath = sys.argv[1]

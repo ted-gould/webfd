@@ -1,6 +1,5 @@
 #!/usr/bin/python2
 import sys
-sys.path.append('/usr/lib/python2.7/dist-packages')
 import cv2
 
 # Get user supplied values

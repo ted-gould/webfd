@@ -1,6 +1,9 @@
-#!/usr/bin/python3
+#!/usr/bin/python2
 import sys
 import cv2
+
+# Modify the sys path to append the current directory
+sys.path.append('')
 
 # Get user supplied values
 cascPath = sys.argv[1]

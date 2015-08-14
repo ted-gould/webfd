@@ -5,5 +5,5 @@ import numpy
 
 setup (name = "wfd",
        version = "1.0",
-       py_modules = ['cv2'],
+       packages = ['cv2', 'numpy'],
       )

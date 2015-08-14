@@ -1,6 +1,7 @@
 #!/usr/bin/python2
 import sys
 import cv2
+import numpy
 
 # Get user supplied values
 cascPath = sys.argv[1]
